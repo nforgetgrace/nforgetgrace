@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nforgetgrace/nforgetgrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> JaeGook Jung</h1>
+<h1 align="center"> 👋 JaeGook Jung 👋</h1>
 
 <h3>🦢Greeting</h3>
 개발을 갈망하는 개발자입니다.
