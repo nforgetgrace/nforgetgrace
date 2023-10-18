@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 2023.10 ~         KT 육군 스마트부대 IoT 통합관제 플랫폼 백앤드 & 프론트 개발<br> 
 
 <h3>🤗목표</h3>
-백앤드 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
+백앤드 관심이 많으며, aws와 DevOps의 경험을 갈망합니다.
 
 <h3>🛠사용언어</h3>
 <div>
