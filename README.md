@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 </div>
 
 <h3>저를 더 알고싶다면</h3>
-<a href="https://velog.io/@987412563">
-    <img src=""
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://nforgetgrace@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
