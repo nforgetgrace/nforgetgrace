@@ -16,17 +16,24 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> JiSeonNam</h1>
+<h1 align="center"> JaeGook Jung</h1>
 
 <h3>🦢Greeting</h3>
 개발을 갈망하는 개발자입니다.
 
 <h3>Project</h3>
-2018~2020 KT ESS 에너지저장솔루션 백앤드 개발
-2019
+2018.07 ~ 2020.11 KT ESS 에너지저장솔루션 백앤드 개발
+2020.04 ~ 2020.11 KT-OMNI 개인이동형 공유자전거 모빌리티플랫폼 백앤드개발
+2020.12 ~ 2021.02 KT 가명처리솔루션 백앤드 개발
+2022.06 ~ 2022.12 신한금융투자 업무용 시스템 웹전환 프로젝트 프론트 개발
+2021.01 ~ 2022.02 라이나생명 대고객 채널 재구축 백앤드 개발
+2022.02 ~ 2022.04 KT롱테일 물류플랫폼 백앤드 개발
+2022.07 ~ 2023.02 하나투어 제휴서비스 항공판매 및 예약 시스템 백애드 & 프론트 개발
+2023.04 ~ 2023.10 KTds Smart-X 솔루션 고도화 백앤드 개발
+2023.10 ~         KT 육군 스마트부대 IoT 통합관제 플랫폼 백앤드 & 프론트 개발
 
 <h3>🤗목표</h3>
-백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
+백앤드 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
 
 <h3>🛠사용언어</h3>
 <div>
@@ -40,10 +47,10 @@ Here are some ideas to get you started:
 
 <h3>저를 더 알고싶다면</h3>
 <a href="https://velog.io/@987412563">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
+    <img src=""
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://i987412563i@gmail.com">
+<a href="https://nforgetgrace@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
