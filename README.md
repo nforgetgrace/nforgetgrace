@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <h3>🦢Greeting</h3>
 개발을 갈망하는 개발자입니다.
+<a href="www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <h3>Project</h3>
 2018.07 ~ 2020.11 KT ESS 에너지저장솔루션 백앤드 개발 <br> 
@@ -50,3 +54,6 @@ Here are some ideas to get you started:
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+
+
