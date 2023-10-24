@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> 👋 JaeGook Jung 👋</h1>
 
 <div align="center" dir="auto">
-    <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+   <img src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" target="_blank">
 </div>
