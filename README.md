@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 개발을 갈망하는 개발자입니다.
 
 
-<h3>Project</h3>
+<h3>📌Project</h3>
 2018.07 ~ 2020.11 KT ESS 에너지저장솔루션 백앤드 개발 <br> 
 2020.04 ~ 2020.11 KT-OMNI 개인이동형 공유자전거 모빌리티플랫폼 백앤드개발 <br> 
 2020.12 ~ 2021.02 KT 가명처리솔루션 백앤드 개발<br> 
