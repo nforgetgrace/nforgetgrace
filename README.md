@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 
 <h3>🏁라이센스</h3>
 <a href="https://www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
 <h3>🛠사용언어</h3>
