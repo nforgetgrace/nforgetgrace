@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 백앤드 관심이 많으며, aws와 DevOps의 경험을 갈망합니다.
 
 <h3>🏁라이센스</h3>
-<a href="www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
+<a href="https://www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
