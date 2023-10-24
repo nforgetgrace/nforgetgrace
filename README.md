@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 <h3>🦢Greeting</h3>
 개발을 갈망하는 개발자입니다.
-<a href="www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 
 <h3>Project</h3>
 2018.07 ~ 2020.11 KT ESS 에너지저장솔루션 백앤드 개발 <br> 
@@ -38,6 +35,12 @@ Here are some ideas to get you started:
 
 <h3>🤗목표</h3>
 백앤드 관심이 많으며, aws와 DevOps의 경험을 갈망합니다.
+
+<h3>🏁라이센스</h3>
+<a href="www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <h3>🛠사용언어</h3>
 <div>
