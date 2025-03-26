@@ -47,15 +47,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,nodejs,aws,react,nextjs,emotion,ts,gatsby,kubernetes,docker&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,aws,emotion,kubernetes,docker,kafka&perline=7"/>
 
 </p>
-
-<h3>저를 더 알고싶다면</h3>
-<a href="https://nforgetgrace@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 
