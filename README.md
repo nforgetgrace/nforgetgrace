@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,aws,emotion,kubernetes,docker,kafka,javascript,c,c++&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,aws,kubernetes,docker,kafka,javascript,c,c++,msa&perline=7"/>
 
 </p>
 
