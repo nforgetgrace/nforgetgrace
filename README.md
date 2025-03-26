@@ -40,13 +40,10 @@ Here are some ideas to get you started:
 2023.10 ~ 2025.03 KT 육군 스마트부대 IoT 통합관제 플랫폼 백앤드 개발<br>
 2025.10 ~         배치관리 솔루션 개발<br> 
 
-<h3>🤗목표</h3>
+<p align="center">
 백앤드 관심이 많으며, 개발과 구축에 관련한 경험을 갈망합니다.
+</p>
 
-<h3>🏁라이센스</h3>
-<a href="https://www.credly.com/badges/1976a48e-2c6d-430f-ba2a-cf080462d510">
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" style="max-width: 100%;">
-</a>
 
 <p align="center">
 
