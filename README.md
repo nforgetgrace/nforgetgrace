@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 2025.11 ~ 2026.04 NCP 뉴 커머스플랫폼 현대백화점 커머스플랫폼 구축  <br> <br> <br> <br> <br> <br> <br> <br> 
 
 <p align="center">
-백앤드 관심이 많으며, 개발과 구축에 관련한 경험을 갈망합니다.
+AX로의 전환을 꿈꾸고, 엔지니어관점으로...
 </p>
 
 
