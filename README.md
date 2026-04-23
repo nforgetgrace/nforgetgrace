@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 2023.10 ~ 2025.03 KT 육군 스마트부대 IoT 통합관제 플랫폼 백앤드 개발<br>
 2025.10 ~ 2026.04 배치관리 솔루션 개발<br>
 2025.11 ~ 2026.04 NCP 뉴 커머스플랫폼 현대백화점 커머스플랫폼 구축  <br> <br> <br> <br> <br> <br> <br> <br> 
+2026.05 ~         AX Eng - AI Foundry <br> <br> <br> <br> <br> <br> <br> <br> 
 
 <p align="center">
 AX로의 전환을 꿈꾸고, 엔지니어관점으로...
